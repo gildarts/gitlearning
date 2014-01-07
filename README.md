@@ -16,3 +16,5 @@ a
 b
 
 fetch
+
+fetch2

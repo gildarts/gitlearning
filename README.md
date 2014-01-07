@@ -14,3 +14,5 @@ master local 3...
 a
 
 b
+
+fetch

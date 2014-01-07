@@ -9,3 +9,5 @@ Test git function.
 
 
 c
+
+diff 喔!
